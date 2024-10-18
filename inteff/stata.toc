@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p inteff Computing interaction effects and standard errors in logit and probit models Use inteff With STATA 18
