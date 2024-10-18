@@ -1,5 +1,10 @@
-d 'DEA': Data envelopment analysis
+d 'inteff': Computing interaction effects and standard errors in logit and probit models Use inteff With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f inteff.ado
+f inteff.hlp
+f logit_cc.ado
+f logit_cd.ado
+f logit_dd.ado
+f probit_cc.ado
+f probit_cd.ado
+f probit_dd.ado
