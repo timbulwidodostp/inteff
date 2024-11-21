@@ -1,6 +1,8 @@
 # inteff
 Computing interaction effects and standard errors in logit and probit models Use inteff With STATA 18
 
+https://www.youtube.com/watch?v=abSiNQfIbuU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
